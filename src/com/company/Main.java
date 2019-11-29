@@ -18,7 +18,7 @@ public class Main {
         System.out.println("Minimum Double Value = " + myMinDoubleValue);
         System.out.println("Max Double Value = " + myMaxDoubleValue);
 
-        int myIntValue = 9 / 5 ;
+        int myIntValue = 9 / 8;
         float myFloatValue = 9f / 5f;
         double myDoubleValue = 9d / 5d;
 
